@@ -1,2 +1,3 @@
 # MathAlgMathAlgIntroduction
 MathObjectives
+SetupGuide
