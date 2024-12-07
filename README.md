@@ -1,3 +1,4 @@
 # MathAlgMathAlgIntroduction
 MathObjectives
 SetupGuide
+AlgebraicFeatures
