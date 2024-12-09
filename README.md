@@ -2,3 +2,4 @@
 MathObjectives
 SetupGuide
 AlgebraicFeatures
+DependenciesList
