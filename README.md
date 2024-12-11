@@ -3,3 +3,4 @@ MathObjectives
 SetupGuide
 AlgebraicFeatures
 DependenciesList
+CodeExamples
