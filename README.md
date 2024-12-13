@@ -4,3 +4,4 @@ SetupGuide
 AlgebraicFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
