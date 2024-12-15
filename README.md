@@ -5,3 +5,4 @@ AlgebraicFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
