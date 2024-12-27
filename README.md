@@ -11,3 +11,4 @@ LicenseDetails
 MathematicalFAQ
 Changelog
 TestingInstructions
+AlgorithmPerformance
