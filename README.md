@@ -12,3 +12,4 @@ MathematicalFAQ
 Changelog
 TestingInstructions
 AlgorithmPerformance
+CommunityResources
